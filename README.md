@@ -1,5 +1,7 @@
 # BOTMON // Prompt Boy Advance
 
+<img width="1822" height="896" alt="Screenshot 2026-11-17 202731" src="https://github.com/user-attachments/assets/0038caf1-0713-410e-8492-426a1fc64acf" />
+
 A dark, robotic static-site prototype for an AI model creature-collector concept: prompts become battle actions, skills become moves, coding languages become types, and models become bots.
 
 > **Project status:** static prototype / concept build. The repository runs locally with no build step. Online multiplayer, trading, and live in-game AI are intentionally marked as future work.
@@ -9,6 +11,8 @@ A dark, robotic static-site prototype for an AI model creature-collector concept
 Many AI demos make models feel like names in a list. BOTMON turns them into a readable game-world system: choose an agentic starter, explore machine districts, discover wild model-bots, and resolve battles through exactly four prompts.
 
 The project is designed for people who want a memorable way to explore AI concepts without building a backend first. It is intentionally lightweight, visual, mobile-friendly, and deployable as plain static files on GitHub Pages or Cloudflare Pages/Workers.
+
+<img width="1823" height="952" alt="Screenshot 2026-11-17 202823" src="https://github.com/user-attachments/assets/d831f613-3e36-4945-91b0-e0a2c7f33049" />
 
 ## See it work
 
